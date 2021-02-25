@@ -4,3 +4,4 @@ numpy
 sklearn
 scipy
 cvxpy
+kaggle
